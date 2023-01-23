@@ -1,20 +1,24 @@
-## Oi, eu sou o Michel e sou um Dev em formação!
+## Oi! Eu sou o Michel 🖐️
 
 
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Estudando essas Tecnologias a todo vapor <3</h1>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-   </div>
+
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=michelmollsantos&show_icons=true&theme=dracula&count_private=true)
+
+## Estudando essas Tecnologias a todo vapor <3
+
+<div style="display: inline_block">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+</div><br/>
     
-  
-  <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: michelmollsantos@gmail.com">
+## Redes Sociais
+
+<div style="display: inline_block">
+    <a align="center" href = "mailto: michelmollsantos@gmail.com">
       <img width="30" src="https://github.com/LuigiGf/LuigiGf/blob/fc1cc35f976a2c1b9a2fc78e8cb258535638a284/gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/michelmollsantos/">
