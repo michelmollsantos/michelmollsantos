@@ -21,9 +21,6 @@
     <a href = "https://www.linkedin.com/in/michelmollsantos/">
       <img width="25" src="https://github.com/LuigiGf/LuigiGf/blob/fc1cc35f976a2c1b9a2fc78e8cb258535638a284/linkedin.svg">
     </a>
-    <a href = "https://www.instagram.com/michelmollsantos/">
-      <img width="25" src="https://github.com/LuigiGf/LuigiGf/blob/fc1cc35f976a2c1b9a2fc78e8cb258535638a284/instagram.png">
-    </a>
 </div>
   
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/raw/output/github-contribution-grid-snake.svg)
