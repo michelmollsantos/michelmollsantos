@@ -1,9 +1,6 @@
 ## Oi! Eu sou o Michel 🖐️
 
 
-
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=michelmollsantos&show_icons=true&theme=dracula&count_private=true)
-
 ## Estudando essas Tecnologias a todo vapor <3
 
 <div style="display: inline_block">
