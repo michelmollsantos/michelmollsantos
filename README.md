@@ -26,7 +26,7 @@ Atualmente busco uma vaga de estágio, trainee ou Desenvolvedor Jr.
     <a align="center" href = "mailto: michelmollsantos@gmail.com">
       <img width="30" src="https://github.com/LuigiGf/LuigiGf/blob/fc1cc35f976a2c1b9a2fc78e8cb258535638a284/gmail.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/michelmollsantos/">
+    <a href = "https://www.linkedin.com/in/michel-moll-santos/"> 
       <img width="25" src="https://github.com/LuigiGf/LuigiGf/blob/fc1cc35f976a2c1b9a2fc78e8cb258535638a284/linkedin.svg">
     </a>
 </div>
