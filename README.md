@@ -2,11 +2,9 @@
 
 Olá, meu nome é Michel, nascido e criado em São Paulo e recentemente morador de Taubaté.
 
-Estou Cursando Analise e Desenvolvimento de Sistemas na qual eu me formo entre junho e dezembro de 2023. 
+Sou formado Analise e Desenvolvimento de Sistemas pela Estácio.
 
-E agora em paralelo estou cursando um bootcamp de desenvolvimento de software fullstack na Cubos Academy.
-
-Atualmente busco uma vaga de estágio, trainee ou Desenvolvedor Jr.
+Atualmente busco uma vaga de estágio, trainee ou Desenvolvedor Jr Back-end.
 
 
 ## Estudando essas Tecnologias a todo vapor <3
